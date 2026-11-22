@@ -97,6 +97,19 @@ Experienced software engineer and technical educator with expertise in full-stac
 
 ---
 
+## Personal Projects
+
+**Pixel Party** (In Development)  
+Building a Mario Party-inspired minigame collection in Godot with support for up to 8 local players. Started with a fully-playable minigame that's been tested extensively with friends and family, with plans to expand into a complete party game experience. A passion project exploring advanced multiplayer mechanics, user experience design for couch co-op gaming, and deepening expertise in Godot game development.
+
+**[Dueling Dillos](https://typicalfoobar.itch.io/dueling-dillos)** (2024)  
+Developed a stylized multiplayer Pong game in Godot as my first venture into networked game development. Built from scratch to learn real-time network synchronization across two different devices, overcoming the unique challenges of peer-to-peer multiplayer architecture. Released on itch.io.
+
+**[Rise of Music (Rise of Nations: Extended Edition mod)](https://steamcommunity.com/sharedfiles/filedetails/?id=426601899)** (2015–2017)  
+Created a comprehensive audio management system to replace the buggy in-game audio engine for Rise of Nations. Built a custom executable paired with in-game scripting to properly handle dynamic music transitions during gameplay—managing mood changes for economic periods, battles, victories, and defeats. The mod resolved critical audio issues affecting the player experience and accumulated hundreds of subscribers and 50+ positive community ratings on Steam Workshop.
+
+---
+
 ## Education
 
 **Bachelor of Science, Computer Science**  
